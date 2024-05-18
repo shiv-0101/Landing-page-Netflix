@@ -2,6 +2,7 @@ import React from 'react'
 
 import Header from './Components/header';
 import Hero from './Components/hero';
+import Container1 from './Components/container1';
 import './App.css'
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <div className=' bg-[rgba(0,0,0,0.65)] over w-[100%] h-[100vh]'>
           <Header />
           <Hero />
+          <Container1 />
         </div>
       </div>
     </>
