@@ -3,6 +3,7 @@ import React from 'react'
 import Header from './Components/header';
 import Hero from './Components/hero';
 import Container1 from './Components/container1';
+import Container2 from './Components/container2';
 import './App.css'
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
           <Header />
           <Hero />
           <Container1 />
+          <Container2 />
         </div>
       </div>
     </>
