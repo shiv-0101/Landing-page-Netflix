@@ -6,6 +6,8 @@ import Container1 from './Components/container1';
 import Container2 from './Components/container2';
 import Container3 from './Components/container3';
 import Container4 from './Components/container4';
+import Faq from './Components/faq';
+import Footer from './Components/footer';
 import './App.css'
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
           <Container2 />
           <Container3 />
           <Container4 />
+          <Faq />
+          <Footer />
         </div>
       </div>
     </>
