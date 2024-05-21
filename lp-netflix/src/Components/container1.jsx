@@ -2,9 +2,9 @@
 const Container1 = () => {
   return (
     <>
-      <div className='flex px-28 py-20 items-center bg-gray-950 my-0 border-t-[10px] border-neutral-800'>
+      <div className='flex justify-center px-40 py-20 items-center bg-gray-950 my-0 border-t-[10px] border-neutral-800'>
         <div className='z-10'>
-          <h2 className='text-6xl text-white font-bold'>Enjoy on your TV</h2>
+          <h2 className='text-5xl text-white font-bold'>Enjoy on your TV</h2>
           <h6 className='py-8 text-2xl text-white w-[80%]'>Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.</h6>
         </div>
         <div className='text-center justify-center items-center ml-[-73px] relative'>

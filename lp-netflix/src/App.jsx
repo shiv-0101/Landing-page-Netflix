@@ -4,6 +4,8 @@ import Header from './Components/header';
 import Hero from './Components/hero';
 import Container1 from './Components/container1';
 import Container2 from './Components/container2';
+import Container3 from './Components/container3';
+import Container4 from './Components/container4';
 import './App.css'
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
           <Hero />
           <Container1 />
           <Container2 />
+          <Container3 />
+          <Container4 />
         </div>
       </div>
     </>
